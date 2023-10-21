@@ -1,8 +1,7 @@
 A Robust Network Infrastructure for Geographically Dispersed Sites
-
 In a world where organizations span across multiple locations, establishing a reliable and secure network infrastructure is paramount for seamless communication and collaboration. This comprehensive network design addresses the challenges of connecting geographically dispersed sites through multiple ISPs, ensuring secure data transmission and efficient network management.
 
-Site-to-Site VPN Connectivity for Secure Data Exchange
+##Site-to-Site VPN Connectivity for Secure Data Exchange
 
 To safeguard sensitive information traversing the network, secure site-to-site VPN connections are established using overlay tunnels. These encrypted tunnels provide a private pathway for data exchange between sites, protecting against unauthorized access and data breaches.
 
